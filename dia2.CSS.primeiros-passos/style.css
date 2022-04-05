@@ -1,0 +1,26 @@
+#Fonte {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#ordenado {
+    background-color: #9AC0CD;
+    line-height: 2;
+    text-decoration:underline gray
+}
+
+.FundoTag {
+    background-color: #9AC0CD;
+}
+
+#paragrafo {
+    font-weight: 600;
+    font-size: 20px;
+    font-style: italic;
+}
+
+#Corpo {
+    font-size: 16px;
+}
